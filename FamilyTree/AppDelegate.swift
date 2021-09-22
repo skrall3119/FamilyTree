@@ -1,13 +1,14 @@
 //
 //  AppDelegate.swift
-//  FamilyTree
+//  Family Tree
 //
 //  Created by Alex Janci on 9/22/21.
+//  Copyright © 2021 Alex Janci. All rights reserved.
 //
 
 import UIKit
 
-@main
+@UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {
 
 

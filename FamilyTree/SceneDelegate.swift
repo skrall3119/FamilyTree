@@ -1,8 +1,9 @@
 //
 //  SceneDelegate.swift
-//  FamilyTree
+//  Family Tree
 //
 //  Created by Alex Janci on 9/22/21.
+//  Copyright © 2021 Alex Janci. All rights reserved.
 //
 
 import UIKit
@@ -23,7 +24,7 @@ class SceneDelegate: UIResponder, UIWindowSceneDelegate {
         // Called as the scene is being released by the system.
         // This occurs shortly after the scene enters the background, or when its session is discarded.
         // Release any resources associated with this scene that can be re-created the next time the scene connects.
-        // The scene may re-connect later, as its session was not necessarily discarded (see `application:didDiscardSceneSessions` instead).
+        // The scene may re-connect later, as its session was not neccessarily discarded (see `application:didDiscardSceneSessions` instead).
     }
 
     func sceneDidBecomeActive(_ scene: UIScene) {

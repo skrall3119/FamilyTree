@@ -1,9 +1,3 @@
-//
-//  ViewController.swift
-//  FamilyTree
-//
-//  Created by Alex Janci on 9/22/21.
-//
 
 import UIKit
 
